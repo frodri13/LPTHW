@@ -1,0 +1,15 @@
+print() ->  allows you to print out into the terminal a string
+> -> greater than
+< -> less than
+= -> equal
+>= -> greater or equal than
+<= -> less or equal than
++ -> pluss
+- -> minus
+* -> times
+/ -> divided
+% -> module
+variables -> can point to a value than can change 
+f"{variable}" -> formatted string that allows you to include variables inside of it
+FALSE -> boolean value for FALSE
+TRUE -> boolean value for true
